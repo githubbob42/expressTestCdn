@@ -1,0 +1,38 @@
+{
+  "name": "expressTest",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/githubbob42/expressTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubbob42/expressTest/issues"
+  },
+  "homepage": "https://github.com/githubbob42/expressTest",
+  "dependencies": {
+    "aws-sdk": "2.1.35",
+    "body-parser": "1.10.2",
+    "client-sessions": "0.7.0",
+    "compression": "1.4.4",
+    "express": "4.13.0",
+    "express-race": "1.0.0",
+    "keygrip": "*",
+    "media-typer": "*",
+    "mime": "^1.3.4",
+    "readlink": "0.2.0",
+    "request-promise": "0.3.3",
+    "serve-index": "1.7.0",
+    "ws": "0.4.32",
+    "xml2js": "0.4.9"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {}
+}
